@@ -1,13 +1,22 @@
 # OZTG-masternopde
-RUN YOUR OZEETY MASTERNODE ON YOUR VPS
+
+RUN YOUR OZTG MASTERNODE ON YOUR VPS
+
 # OZEETY-masternode
+
 Set up your OZTG Masternode on your VPS
 
 ##### connect to vps1 and vps2 (ubuntu 18.04) ssh root@ip (that you have created)
 
-##### download ozeety-cli and ozeetyd (vps1 & vps2)
+##### download ozeety-cli and ozeetyd (vps1 & vps2) HERE
+
+https://github.com/Flashgroupdevs/New_Ozeety.wallet-ubuntu18.04/raw/master/ozeety-cli
+
+https://github.com/Flashgroupdevs/New_Ozeety.wallet-ubuntu18.04/raw/master/ozeetyd
 
 ##### copy ozeety-cli and ozeetyd to /usr/bin (vps1 & vps2)
+
+
 
 ##### run ozeetyd (vps1 & vps2)
 
