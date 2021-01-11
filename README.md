@@ -1,8 +1,5 @@
-# OZTG-masternopde
 
-RUN YOUR OZTG MASTERNODE ON YOUR VPS
-
-# OZEETY-masternode
+## OZEETY-masternode
 
 Set up your OZTG Masternode on your VPS
 
