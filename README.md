@@ -7,10 +7,8 @@ Set up your OZTG Masternode on your VPS
 
 ##### download ozeety-cli and ozeetyd (vps1 & vps2) HERE
 
-https://github.com/Flashgroupdevs/New-OZEETYWALLET_LINUX/raw/main/oztg-cli
-
-https://github.com/Flashgroupdevs/New-OZEETYWALLET_LINUX/raw/main/oztgd
-
+https://github.com/Flashgroupdevs/New-OZEETYWALLET_Linux-18.04/raw/main/ozeety-cli
+https://github.com/Flashgroupdevs/New-OZEETYWALLET_Linux-18.04/raw/main/ozeetyd
 ##### copy ozeety-cli and ozeetyd to /usr/bin (vps1 & vps2)
 
 
